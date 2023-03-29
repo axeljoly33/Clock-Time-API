@@ -1,0 +1,11 @@
+mod = [
+	"Clock Time API"
+]
+
+package = [
+	"resource_packages/Clock Time API/Clock Time API"
+]
+
+lua = [
+	"scripts/mods/Clock Time API/*"
+]
